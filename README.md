@@ -9,4 +9,5 @@ Desenvolver integração entre as duas redes de saúde e entre os diversos eleme
 O sistema deve levar ao médico em atendimento informações detalhadas sobre o paciente, trazendo também informações como histórico de IMC, pressão arterial sistêmica, vacinação, alergias e afins.
 O sistema deve ser integrado ao digiSUS
 
-# Versões futuras: os dados obtidos não serão apenas arquivados. Serão usados para aprendizado de máquina para desenvolver uma previsão de doenças e evolução de quadros de saúde baseados em triagem histórica de indivíduos
+# Versões futuras: 
+os dados obtidos não serão apenas arquivados. Serão usados para aprendizado de máquina para desenvolver uma previsão de doenças e evolução de quadros de saúde baseados em triagem histórica de indivíduos
